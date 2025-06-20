@@ -1,0 +1,9 @@
+path: c:/Users/91630/OneDrive/Desktop/drone-weed/dataset  # dataset root dir
+train: train/images  # train images
+val: val/images  # val images
+test: test/images  # test images (optional)
+
+# Classes
+names:
+  0: weed
+  1: crop
